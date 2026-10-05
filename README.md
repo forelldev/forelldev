@@ -25,7 +25,7 @@
   Aplicación móvil Android nativa diseñada bajo la filosofía de "privacidad primero". Almacenamiento 100% offline nativo en el dispositivo mediante SQLite y alertas automatizadas resilientes (4 avisos por persona) independientes de conexión a internet.  
   *Stack: React Native, Expo 57, SQLite.*
 
-* **[TubeToMP3 - Convertidor Local de Audio](https://github.com)** *(o el nombre exacto de tu repositorio)*  
+* **[TubeToMP3 - Convertidor Local de Audio](https://github.com)**  
   Herramientas gemelas (aplicación de escritorio y plataforma web local) para la descarga y conversión directa de videos de YouTube a formato MP3 de manera rápida y sin anuncios de terceros.  
   *Stack: Python, Flask, yt-dlp, FFmpeg, HTML/CSS.*
 
@@ -45,13 +45,14 @@ Desarrollo soluciones a la medida del flujo de trabajo real de negocios y empres
 
 ### 🌐 Conéctate conmigo
 
-* 🌍 **Portafolio Web:** [carlossoteldo.netlify.app](https://carlossoteldo.netlify.app)
-* 📺 **YouTube:** [@forelldev](https://www.youtube.com/@forelldev)
-* 🎵 **TikTok:** [@forelldev](https://tiktok.com/@forelldev)
-* 💼 **LinkedIn:** [Carlos Soteldo](https://linkedin.com/in/carlos-soteldo-58868a2b0/)
-* 💬 **WhatsApp:** [+58 424 558 7628](https://wa.me/584245587628)
+<ul>
+  <li>🌍 <strong>Portafolio Web:</strong> <a href="https://carlossoteldo.netlify.app" target="_blank" rel="noopener noreferrer">carlossoteldo.netlify.app</a></li>
+  <li>📺 <strong>YouTube:</strong> <a href="https://www.youtube.com/@forelldev" target="_blank" rel="noopener noreferrer">@forelldev</a></li>
+  <li>🎵 <strong>TikTok:</strong> <a href="https://www.tiktok.com/@forelldev" target="_blank" rel="noopener noreferrer">@forelldev</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/carlos-soteldo-58868a2b0/" target="_blank" rel="noopener noreferrer">Carlos Soteldo</a></li>
+  <li>💬 <strong>WhatsApp:</strong> <a href="https://wa.me/584245587628" target="_blank" rel="noopener noreferrer">+58 424 558 7628</a></li>
+</ul>
 
----
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub de forelldev" />
