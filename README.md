@@ -53,7 +53,3 @@ Desarrollo soluciones a la medida del flujo de trabajo real de negocios y empres
 </ul>
 
 ---
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de forelldev" />
-</p>
