@@ -7,13 +7,12 @@
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend & Runtimes** | ![PHP](https://shields.io) ![Laravel](https://shields.io) ![Python](https://shields.io) ![Flask](https://shields.io) ![Node.js](https://shields.io) |
-| **Frontend Frameworks** | ![Astro](https://shields.io) ![Vue.js](https://shields.io) ![Quasar](https://shields.io) ![React](https://shields.io) ![Tailwind CSS](https://shields.io) ![Bootstrap](https://shields.io) |
-| **Mobile & Multiplataforma** | ![React Native](https://shields.io) ![Expo](https://shields.io) ![Tauri](https://shields.io) ![Capacitor](https://shields.io) |
-| **Bases de Datos** | ![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![SQLite](https://shields.io) |
-| **Infraestructura & Despliegue** | ![Docker](https://shields.io) ![Netlify](https://shields.io) ![Nginx](https://shields.io) ![Apache](https://shields.io) `VPS` `Git/GitHub` `DNS` |
+| **Backend & Runtimes** | <img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="Laravel" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="Node.js" /> |
+| **Frontend Frameworks** | <img src="https://shields.io" alt="Astro" /> <img src="https://shields.io" alt="Vue.js" /> <img src="https://shields.io" alt="Quasar" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Tailwind CSS" /> <img src="https://shields.io" alt="Bootstrap" /> |
+| **Mobile & Multiplataforma** | <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="Expo" /> <img src="https://shields.io" alt="Tauri" /> <img src="https://shields.io" alt="Capacitor" /> |
+| **Bases de Datos** | <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="SQLite" /> |
+| **Infraestructura & Despliegue** | <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Netlify" /> <img src="https://shields.io" alt="Nginx" /> <img src="https://shields.io" alt="Apache" /> `VPS` `Git/GitHub` `DNS` |
 
----
 
 ### 💻 Proyectos Destacados
 
