@@ -45,11 +45,11 @@ Desarrollo soluciones a la medida del flujo de trabajo real de negocios y empres
 
 ### 🌐 Conéctate conmigo
 
-* 🌍 **Portafolio Web:** [carlossoteldo.netlify.app](https://netlify.app)
+* 🌍 **Portafolio Web:** [carlossoteldo.netlify.app](https://carlossoteldo.netlify.app)
 * 📺 **YouTube:** [@forelldev](https://www.youtube.com/@forelldev)
-* 🎵 **TikTok:** [@forelldev](https://tiktok.com)
-* 💼 **LinkedIn:** [Carlos Soteldo](https://linkedin.com)
-* 💬 **WhatsApp:** [+58 424 558 7628](https://wa.me)
+* 🎵 **TikTok:** [@forelldev](https://tiktok.com/@forelldev)
+* 💼 **LinkedIn:** [Carlos Soteldo](https://linkedin.com/in/carlos-soteldo-58868a2b0/)
+* 💬 **WhatsApp:** [+58 424 558 7628](https://wa.me/584245587628)
 
 ---
 
