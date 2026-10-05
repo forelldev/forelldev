@@ -5,13 +5,13 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Área | Tecnologías y Herramientas |
+| Área | Tecnologías |
 | :--- | :--- |
-| **Backend & Runtimes** | <img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="Laravel" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="Node.js" /> |
-| **Frontend Frameworks** | <img src="https://shields.io" alt="Astro" /> <img src="https://shields.io" alt="Vue.js" /> <img src="https://shields.io" alt="Quasar" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Tailwind CSS" /> <img src="https://shields.io" alt="Bootstrap" /> |
-| **Mobile & Multiplataforma** | <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="Expo" /> <img src="https://shields.io" alt="Tauri" /> <img src="https://shields.io" alt="Capacitor" /> |
-| **Bases de Datos** | <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="SQLite" /> |
-| **Infraestructura & Despliegue** | <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Netlify" /> <img src="https://shields.io" alt="Nginx" /> <img src="https://shields.io" alt="Apache" /> `VPS` `Git/GitHub` `DNS` |
+| **Backend & Runtimes** | `PHP` `Laravel` `Python` `Flask` `Node.js` |
+| **Frontend Frameworks** | `Astro` `Vue.js` `Quasar` `React` `Tailwind CSS` `Bootstrap` |
+| **Mobile & Multiplataforma** | `React Native` `Expo` `Tauri` `Capacitor` |
+| **Bases de Datos** | `PostgreSQL` `MySQL` `SQLite` |
+| **Infraestructura & Despliegue** | `Docker` `Netlify` `Nginx` `Apache` `VPS` `Git/GitHub` `DNS` |
 
 
 ### 💻 Proyectos Destacados
