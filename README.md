@@ -17,7 +17,7 @@
 
 ### 💻 Proyectos Destacados
 
-* **[SIVE - Sistema de Ventas e Inversiones](https://netlify.app)**  
+* **[SIVE - Sistema de Ventas e Inversiones](https://carlossoteldo.netlify.app)**  
   Sistema web administrativo avanzado para llevar clientes, ventas e inversiones con gestión de **precio dual (USD y Bs)**, control de fiados pagados a tasa oficial BCV del día y cálculo automatizado de costos de producción desde insumos.  
   *Stack: Vue.js, Quasar Framework, Laravel, MySQL.*
 
@@ -29,7 +29,7 @@
   Herramientas gemelas (aplicación de escritorio y plataforma web local) para la descarga y conversión directa de videos de YouTube a formato MP3 de manera rápida y sin anuncios de terceros.  
   *Stack: Python, Flask, yt-dlp, FFmpeg, HTML/CSS.*
 
-* **[Display Sound - Sitio Web Comercial](https://netlify.app)**  
+* **[Display Sound - Sitio Web Comercial](https://carlossoteldo.netlify.app)**  
   Landing page y sitio web optimizado para SEO enfocado en la conversión y presencia online de un estudio de grabación con más de 7 años de trayectoria en el sector musical.  
   *Stack: Astro.*
 
@@ -53,6 +53,7 @@ Desarrollo soluciones a la medida del flujo de trabajo real de negocios y empres
   <li>💬 <strong>WhatsApp:</strong> <a href="https://wa.me/584245587628" target="_blank" rel="noopener noreferrer">+58 424 558 7628</a></li>
 </ul>
 
+---
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub de forelldev" />
